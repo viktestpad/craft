@@ -23,7 +23,7 @@
          "type": "vcs",
          "url": "https://github.com/craftcms/cms"
      }
- ]
+ ],
   "require": {
     "php": ">=7.0.0",
     "craftcms/cms": "dev-develop",
