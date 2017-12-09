@@ -18,9 +18,15 @@
     "docs": "https://craftcms.com/docs",
     "rss": "https://craftcms.com/changelog.rss"
   },
+  "repositories": [
+     {
+         "type": "vcs",
+         "url": "https://github.com/craftcms/cms"
+     }
+ ]
   "require": {
     "php": ">=7.0.0",
-    "craftcms/cms": "3.0.0-beta.34",
+    "craftcms/cms": "dev-develop",
     "vlucas/phpdotenv": "^2.4.0",
     "roave/security-advisories": "dev-master"
   },
